@@ -1,0 +1,28 @@
+# Generated packages, previews and compiled GSettings schemas
+/dist/
+/schemas/gschemas.compiled
+*.shell-extension.zip
+
+# Dependencies, test output and caches
+node_modules/
+/coverage/
+/.cache/
+
+# Local tools and credential directories
+/.agents/
+/.codex/
+/.aws/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Logs, editor backups and operating-system files
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db

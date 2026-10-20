@@ -1,0 +1,12 @@
+{
+  "name": "rational-weather",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test --test-isolation=none tests/*.test.mjs",
+    "check": "bash scripts/check.sh",
+    "smoke:desktop": "bash scripts/smoke-desktop.sh",
+    "preview:weather": "gjs -m scripts/preview-weather.mjs",
+    "pack": "bash scripts/package.sh"
+  }
+}

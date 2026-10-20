@@ -1,0 +1,31 @@
+.rw-panel { spacing: 6px; padding: 0 5px; border-radius: 6px; }
+.rw-panel--clear, .rw-panel--hot { background-color: rgba(233, 173, 66, 0.12); }
+.rw-panel--clear-night, .rw-panel--cloudy-night { background-color: rgba(117, 134, 215, 0.14); }
+.rw-panel--cloudy { background-color: rgba(114, 159, 204, 0.12); }
+.rw-panel--overcast, .rw-panel--fog { background-color: rgba(148, 161, 174, 0.12); }
+.rw-panel--rain, .rw-panel--sleet { background-color: rgba(80, 150, 232, 0.14); }
+.rw-panel--storm { background-color: rgba(150, 125, 216, 0.14); }
+.rw-panel--snow, .rw-panel--hail, .rw-panel--cold { background-color: rgba(128, 196, 230, 0.14); }
+.rw-panel--haze, .rw-panel--dust { background-color: rgba(192, 156, 96, 0.14); }
+.rw-panel--wind, .rw-panel--tornado { background-color: rgba(100, 175, 164, 0.12); }
+.rw-scroll { max-height: 520px; min-width: 340px; max-width: 420px; }
+.rw-details { spacing: 10px; padding: 6px 10px; }
+.rw-row { spacing: 16px; }
+.rw-heading { font-size: 1.15em; font-weight: 700; padding-bottom: 4px; }
+.rw-scene { min-height: 116px; border-radius: 14px; border: 1px solid rgba(128, 128, 128, 0.12); }
+.rw-scene-high-contrast { border: 2px solid rgba(128, 128, 128, 0.8); }
+.rw-hero-content { padding: 14px 18px; spacing: 3px; }
+.rw-hero { spacing: 12px; }
+.rw-temperature { font-size: 2.7em; font-weight: 300; }
+.rw-condition { font-size: 0.95em; opacity: 0.85; }
+.rw-muted { opacity: 0.7; }
+.rw-caption { font-size: 0.8em; opacity: 0.65; }
+.rw-small { font-size: 0.85em; }
+.rw-status { font-size: 0.9em; color: #c88835; }
+.rw-section-title { font-weight: 700; padding-top: 12px; }
+.rw-day-title { font-weight: 600; padding-bottom: 5px; }
+.rw-forecast-card { spacing: 5px; padding: 10px 0; border-top: 1px solid rgba(128, 128, 128, 0.22); }
+.rw-calendar { spacing: 9px; }
+.rw-calendar-title { font-weight: 600; }
+.rw-calendar-days { spacing: 12px; padding: 5px 0; }
+.rw-calendar-day { spacing: 7px; }

@@ -1,0 +1,9 @@
+{
+  "uuid": "rational-weather@local",
+  "name": "知云天气",
+  "description": "高德实况与四天天气预报，顶栏和日历共享缓存，支持密钥环与请求预算。",
+  "shell-version": ["50"],
+  "settings-schema": "org.gnome.shell.extensions.rational-weather",
+  "version": 4,
+  "version-name": "0.3.0"
+}
